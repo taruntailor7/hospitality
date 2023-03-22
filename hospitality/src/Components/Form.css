@@ -1,0 +1,22 @@
+form{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 80px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+form>input,button{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    border: 1px solid #ccc;
+}
+button{
+    width: 100px;
+    background:teal;
+    color: white;
+}

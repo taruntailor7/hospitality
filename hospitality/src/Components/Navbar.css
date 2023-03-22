@@ -1,0 +1,10 @@
+.navbar{
+    background: teal;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
